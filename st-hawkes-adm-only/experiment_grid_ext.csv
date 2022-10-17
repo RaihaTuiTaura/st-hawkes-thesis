@@ -1,0 +1,29 @@
+﻿seed_id,country,N_MCMC,burn_in,smax_p,n_chains,validation,type_ind,time_aggregation
+60549,Bangladesh,2000,1000,3,3,F,1,months
+60550,Bangladesh,2000,1000,3,3,F,2,months
+60551,Bangladesh,2000,1000,3,3,F,3,months
+60552,Bangladesh,2000,1000,3,3,F,4,months
+60553,Bangladesh,2000,1000,3,3,F,5,months
+60554,Bangladesh,2000,1000,3,3,F,6,months
+60555,Bangladesh,2000,1000,3,3,F,7,months
+60556,Sri Lanka,2000,1000,3,3,F,1,months
+60557,Sri Lanka,2000,1000,3,3,F,2,months
+60558,Sri Lanka,2000,1000,3,3,F,3,months
+60559,Sri Lanka,2000,1000,3,3,F,4,months
+60560,Sri Lanka,2000,1000,3,3,F,5,months
+60561,Sri Lanka,2000,1000,3,3,F,6,months
+60562,Sri Lanka,2000,1000,3,3,F,7,months
+60577,Nepal,2000,1000,3,3,F,1,months
+60578,Nepal,2000,1000,3,3,F,2,months
+60579,Nepal,2000,1000,3,3,F,3,months
+60580,Nepal,2000,1000,3,3,F,4,months
+60581,Nepal,2000,1000,3,3,F,5,months
+60582,Nepal,2000,1000,3,3,F,6,months
+60583,Nepal,2000,1000,3,3,F,7,months
+60584,Pakistan,2000,1000,3,3,F,1,months
+60585,Pakistan,2000,1000,3,3,F,2,months
+60586,Pakistan,2000,1000,3,3,F,3,months
+60587,Pakistan,2000,1000,3,3,F,4,months
+60588,Pakistan,2000,1000,3,3,F,5,months
+60589,Pakistan,2000,1000,3,3,F,6,months
+60590,Pakistan,2000,1000,3,3,F,7,months

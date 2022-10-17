@@ -1,0 +1,29 @@
+﻿seed_id,country,N_MCMC,burn_in,smax_p,n_chains,validation,type_ind,time_aggregation,pop_threshold
+20957,Bangladesh,2000,1000,3,3,F,1,months,0.75
+20958,Bangladesh,2000,1000,3,3,F,2,months,0.75
+20959,Bangladesh,2000,1000,3,3,F,3,months,0.75
+20960,Bangladesh,2000,1000,3,3,F,4,months,0.75
+20961,Bangladesh,2000,1000,3,3,F,5,months,0.75
+20962,Bangladesh,2000,1000,3,3,F,6,months,0.75
+20963,Bangladesh,2000,1000,3,3,F,7,months,0.75
+20964,Sri Lanka,2000,1000,3,3,F,1,months,0.75
+20965,Sri Lanka,2000,1000,3,3,F,2,months,0.75
+20966,Sri Lanka,2000,1000,3,3,F,3,months,0.75
+20967,Sri Lanka,2000,1000,3,3,F,4,months,0.75
+20968,Sri Lanka,2000,1000,3,3,F,5,months,0.75
+20969,Sri Lanka,2000,1000,3,3,F,6,months,0.75
+20970,Sri Lanka,2000,1000,3,3,F,7,months,0.75
+20985,Nepal,2000,1000,3,3,F,1,months,0.75
+20986,Nepal,2000,1000,3,3,F,2,months,0.75
+20987,Nepal,2000,1000,3,3,F,3,months,0.75
+20988,Nepal,2000,1000,3,3,F,4,months,0.75
+20989,Nepal,2000,1000,3,3,F,5,months,0.75
+20990,Nepal,2000,1000,3,3,F,6,months,0.75
+20991,Nepal,2000,1000,3,3,F,7,months,0.75
+20992,Pakistan,2000,1000,3,3,F,1,months,0.75
+20993,Pakistan,2000,1000,3,3,F,2,months,0.75
+20994,Pakistan,2000,1000,3,3,F,3,months,0.75
+20995,Pakistan,2000,1000,3,3,F,4,months,0.75
+20996,Pakistan,2000,1000,3,3,F,5,months,0.75
+20997,Pakistan,2000,1000,3,3,F,6,months,0.75
+20998,Pakistan,2000,1000,3,3,F,7,months,0.75
