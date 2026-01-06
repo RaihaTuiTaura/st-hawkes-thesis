@@ -270,13 +270,13 @@ mclapply(countries, function(country) run_mle(country))
 print(desc)
 print(proc.time()-start.time)
 
-# # baseline only model
-# # note: just ran this separately to above
-# decay_fn = NULL
-# decay_space_fn = NULL
-# smax=smax_p=0
-# start.time = proc.time()
-# desc="icar_only"
-# mclapply(countries, function(country) run_mle(country))
-# print(desc)
-# print(proc.time()-start.time)
+# baseline only model
+# note: just ran this separately to above
+decay_fn = NULL
+decay_space_fn = NULL
+smax=smax_p=0
+start.time = proc.time()
+desc="icar_only"
+mclapply(countries, function(country) run_mle(country))
+print(desc)
+print(proc.time()-start.time)
