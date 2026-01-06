@@ -1,0 +1,49 @@
+﻿desc,seed_id,country,ISO3C,iter_sampling,burn_in,smax_p,n_chains,type_ind,time_aggregation,program_file_name
+ST_SE_icar_mleprior,2874,Bangladesh,BGD,1000,9000,52,3,1,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2875,Bangladesh,BGD,1000,9000,52,3,2,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2876,Bangladesh,BGD,1000,9000,52,3,3,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2877,Bangladesh,BGD,1000,9000,52,3,4,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2878,Bangladesh,BGD,1000,9000,52,3,5,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2879,Bangladesh,BGD,1000,9000,52,3,6,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2880,Sri Lanka,LKA,1000,9000,52,3,1,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2881,Sri Lanka,LKA,1000,9000,52,3,2,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2882,Sri Lanka,LKA,1000,9000,52,3,3,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2883,Sri Lanka,LKA,1000,9000,52,3,4,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2884,Sri Lanka,LKA,1000,9000,52,3,5,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2885,Sri Lanka,LKA,1000,9000,52,3,6,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2886,Nepal,NPL,1000,9000,52,3,1,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2887,Nepal,NPL,1000,9000,52,3,2,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2888,Nepal,NPL,1000,9000,52,3,3,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2889,Nepal,NPL,1000,9000,52,3,4,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2890,Nepal,NPL,1000,9000,52,3,5,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2891,Nepal,NPL,1000,9000,52,3,6,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2892,Pakistan,PAK,1000,9000,52,3,1,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2893,Pakistan,PAK,1000,9000,52,3,2,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2894,Pakistan,PAK,1000,9000,52,3,3,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2895,Pakistan,PAK,1000,9000,52,3,4,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2896,Pakistan,PAK,1000,9000,52,3,5,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+ST_SE_icar_mleprior,2897,Pakistan,PAK,1000,9000,52,3,6,weeks,prelim-analysis/program_adm_only_icar_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2898,Bangladesh,BGD,1000,9000,52,3,1,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2899,Bangladesh,BGD,1000,9000,52,3,2,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2900,Bangladesh,BGD,1000,9000,52,3,3,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2901,Bangladesh,BGD,1000,9000,52,3,4,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2902,Bangladesh,BGD,1000,9000,52,3,5,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2903,Bangladesh,BGD,1000,9000,52,3,6,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2904,Sri Lanka,LKA,1000,9000,52,3,1,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2905,Sri Lanka,LKA,1000,9000,52,3,2,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2906,Sri Lanka,LKA,1000,9000,52,3,3,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2907,Sri Lanka,LKA,1000,9000,52,3,4,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2908,Sri Lanka,LKA,1000,9000,52,3,5,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2909,Sri Lanka,LKA,1000,9000,52,3,6,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2910,Nepal,NPL,1000,9000,52,3,1,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2911,Nepal,NPL,1000,9000,52,3,2,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2912,Nepal,NPL,1000,9000,52,3,3,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2913,Nepal,NPL,1000,9000,52,3,4,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2914,Nepal,NPL,1000,9000,52,3,5,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2915,Nepal,NPL,1000,9000,52,3,6,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2916,Pakistan,PAK,1000,9000,52,3,1,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2917,Pakistan,PAK,1000,9000,52,3,2,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2918,Pakistan,PAK,1000,9000,52,3,3,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2919,Pakistan,PAK,1000,9000,52,3,4,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2920,Pakistan,PAK,1000,9000,52,3,5,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
+nospatialSE_icar_mleprior,2921,Pakistan,PAK,1000,9000,52,3,6,weeks,prelim-analysis/program_adm_only_icar_nospatialSE_cmdstanr_zeroinf_mleprior.stan
